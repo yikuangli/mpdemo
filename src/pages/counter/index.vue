@@ -4,6 +4,7 @@
     <p>
       <button @click="increment">+</button>
       <button @click="decrement">-</button>
+      <van-button>测试</van-button>
     </p>
 
     <a href="/pages/index/main" class="home">去往首页</a>
