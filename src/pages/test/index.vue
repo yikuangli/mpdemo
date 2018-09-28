@@ -1,3 +1,5 @@
 <template>
-    
+    <panel>
+        
+    </panel>
 </template>
