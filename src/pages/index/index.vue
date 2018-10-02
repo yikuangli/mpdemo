@@ -19,7 +19,7 @@
       <input type="text" class="form-control" v-model.lazy="motto" placeholder="v-model.lazy" />
     </form>
     <a href="/pages/counter/main" class="counter">Vuex示例页面</a>
-    <a href="/pages/counter/main" class="counter">新的页面</a>
+    <a href="/pages/test/main" class="counter">新的页面</a>
   </div>
 </template>
 
